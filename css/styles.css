@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    height: auto;
+}
+
+#body_game {
+    display: flex;
+    align-items: flex-start;
+
+}
+
+#dollars_cookie_grandma {
+    padding-left: 40px;
+}
+
+#little_cookie {
+    display: flex;
+    padding-top: 60px;
+}
+
+#dollars {
+    display: flex;
+    padding-top: 30px;
+}
+
+#little_grandma {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.nb {
+    font-size: 24px;
+    padding-right: 20px;
+}
+
+#btn {
+    margin-left: 20px;
+    background-color: lightgreen;
+    border: 2px solid black;
+    font-size: medium;
+    font-weight: bold;
+}
